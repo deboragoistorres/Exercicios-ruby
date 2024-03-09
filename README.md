@@ -1,2 +1,2 @@
-Alguns exercicios de Ruby para aulas e treinamentos
-Alguns exercicios básicos de ECS6
+#Alguns exercicios de Ruby para aulas e treinamentos
+#Alguns exercicios básicos de ECS6
